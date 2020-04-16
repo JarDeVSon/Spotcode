@@ -8,6 +8,11 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
+Ruby
+Ruby on Rails
+Git
+NodeJs
+Yarn
 
 * Configuration
 
@@ -20,5 +25,4 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
 * ...
